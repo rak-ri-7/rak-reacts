@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rak-reacts/static/css/main.f309fe8e.css",
+    "main.js": "/rak-reacts/static/js/main.f2b38de5.js",
+    "static/js/787.f91c868e.chunk.js": "/rak-reacts/static/js/787.f91c868e.chunk.js",
+    "index.html": "/rak-reacts/index.html",
+    "main.f309fe8e.css.map": "/rak-reacts/static/css/main.f309fe8e.css.map",
+    "main.f2b38de5.js.map": "/rak-reacts/static/js/main.f2b38de5.js.map",
+    "787.f91c868e.chunk.js.map": "/rak-reacts/static/js/787.f91c868e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f309fe8e.css",
+    "static/js/main.f2b38de5.js"
+  ]
+}
